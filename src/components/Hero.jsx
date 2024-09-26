@@ -15,7 +15,7 @@ function Hero() {
           <h1 className="mb-5 text-3xl font-bold text-left md:w-full">
             FreshGoods
           </h1>
-          <p className="mb-5 text-7xl text-left tracking-widest w-6/12 text-wrap">
+          <p className="mb-5 text-6xl text-left tracking-widest w-6/12 text-wrap">
             Concisely describe your product or service
           </p>
           <p className="mb-5 w-1/2 ">
